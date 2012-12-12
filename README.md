@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 For background on CheerLights see: http://www.cheerlights.com/
 
@@ -20,3 +21,9 @@ pete@rasterweb.net
 http://rasterweb.net/raster/
 Twitter: @raster
 
+=======
+CheerLCD
+========
+
+An implementation of CheerLights using an Adafruit USB+Serial Backpack.
+>>>>>>> eee37eb89aeb3fc25c42e8e65c3135241d967281
